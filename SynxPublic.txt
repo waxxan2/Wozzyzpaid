@@ -3,7 +3,7 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SynioxStudios/Syniox-Ui/refs/heads/main/Syniox%20Gui.txt", true))()
 local displayName = game.Players.LocalPlayer.DisplayName
 
-local window = library:AddWindow("Syniox Public | Muscle Legends || HELLO - ".. displayName, {
+local window = library:AddWindow("Royal Clans | Muscle Legends || HELLO - ".. displayName, {
     title_bar = {
         Color3.fromRGB(160, 0, 0), 
         Color3.fromRGB(40, 0, 0),  
